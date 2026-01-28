@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/Atomarverseucht/winesmeeper-rust/compare/1.0.2...1.0.3) (2026-01-28)
+
+
+### Bug Fixes
+
+* cargo build --release test ([475f8ae](https://github.com/Atomarverseucht/winesmeeper-rust/commit/475f8ae8353685334c7c1c82fd87b783c3acb0bf))
+
 ## [1.0.2](https://github.com/Atomarverseucht/winesmeeper-rust/compare/1.0.1...1.0.2) (2026-01-28)
 
 
