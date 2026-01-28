@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Guakocius/winesmeeper-rust/compare/1.0.0...1.0.1) (2026-01-28)
+
+
+### Bug Fixes
+
+* Update release path for winesmeeper-rust ([8ff6905](https://github.com/Guakocius/winesmeeper-rust/commit/8ff6905be1f5c7af0dcd1c170d04f1817c7883d3))
+
 # 1.0.0 (2026-01-28)
 
 
