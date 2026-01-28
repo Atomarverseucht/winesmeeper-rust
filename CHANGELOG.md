@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/Atomarverseucht/winesmeeper-rust/compare/1.0.8...1.0.9) (2026-01-28)
+
+
+### Bug Fixes
+
+* Update .releaserc ([601bc3a](https://github.com/Atomarverseucht/winesmeeper-rust/commit/601bc3aea1663d62bca2dd842d0ef96725c13087))
+
 ## [1.0.8](https://github.com/Atomarverseucht/winesmeeper-rust/compare/1.0.7...1.0.8) (2026-01-28)
 
 
