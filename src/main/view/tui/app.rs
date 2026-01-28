@@ -13,7 +13,7 @@ use color_eyre::{
     Result,
 };
 
-use crate::tui::Tui; 
+use crate::Tui;
 
 #[derive(Debug, Default)]
 pub struct App {
