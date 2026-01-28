@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/Atomarverseucht/winesmeeper-rust/compare/1.0.9...1.0.10) (2026-01-28)
+
+
+### Bug Fixes
+
+* regex pattern for version replacement in .releaserc ([99e096e](https://github.com/Atomarverseucht/winesmeeper-rust/commit/99e096ef3ac235d6748ccc93740553c2a122a44c))
+
 ## [1.0.9](https://github.com/Atomarverseucht/winesmeeper-rust/compare/1.0.8...1.0.9) (2026-01-28)
 
 
