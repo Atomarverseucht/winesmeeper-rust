@@ -1,3 +1,10 @@
+## [1.0.11](https://github.com/Atomarverseucht/winesmeeper-rust/compare/1.0.10...1.0.11) (2026-01-28)
+
+
+### Bug Fixes
+
+* version formatting in Cargo.toml ([44dff2b](https://github.com/Atomarverseucht/winesmeeper-rust/commit/44dff2bc2bb2e2c0e821fe18193872b5bc164d7f))
+
 ## [1.0.10](https://github.com/Atomarverseucht/winesmeeper-rust/compare/1.0.9...1.0.10) (2026-01-28)
 
 

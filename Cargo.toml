@@ -1,6 +1,6 @@
 [package]
 name = "winesmeeper-rust"
-version = "1.0.6"
+version = "1.0.11"
 description = "Winesmeeper written in Rust"
 authors = ["Guakocius <engelhardt.alexander@mein.gmx>"]
 license = "MIT"
