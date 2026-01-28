@@ -59,7 +59,7 @@
     [
       "@semantic-release/exec",
       {
-        "publishCmd": "cargo build"
+        "publishCmd": "cargo build --release"
       }
     ],
     [
