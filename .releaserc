@@ -49,7 +49,7 @@
             "files": [
               "Cargo.toml"
             ],
-            "from": "version = \".*,
+            "from": "version = \".*\"",
             "to": "version = \"${nextRelease.version}",
             "countMatches": true
           }
