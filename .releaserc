@@ -59,7 +59,7 @@
     [
       "@semantic-release/exec",
       {
-        "publishCmd": ""
+        "publishCmd": "cargo build"
       }
     ],
     [
@@ -77,7 +77,7 @@
       {
         "assets": [
           {
-            "path": "cargo.toml"
+            "path": "target/debug/winesmeeper-rust"
           }
         ],
         "successComment": false
