@@ -47,7 +47,7 @@
         "replacements": [
           {
             "files": [
-              "cargo.toml"
+              "Cargo.toml"
             ],
             "from": "version = \".*\",",
             "to": "version = \"${nextRelease.version}\",",
@@ -68,7 +68,7 @@
         "assets": [
           "README.md",
           "CHANGELOG.md",
-          "cargo.toml"
+          "Cargo.toml"
         ]
       }
     ],
