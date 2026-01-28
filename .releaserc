@@ -50,7 +50,7 @@
               "Cargo.toml"
             ],
             "from": "version = \".*\"",
-            "to": "version = \"${nextRelease.version}",
+            "to": "version = \"${nextRelease.version}\"",
             "countMatches": true
           }
         ]
