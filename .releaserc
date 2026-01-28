@@ -77,7 +77,7 @@
       {
         "assets": [
           {
-            "path": "target/debug/winesmeeper-rust"
+            "path": "target/release/winesmeeper-rust"
           }
         ],
         "successComment": false
